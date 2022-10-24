@@ -1,2 +1,5 @@
-# instagrambootstrapclone
-Simple HTML Instagram clone made with Bootstrap.
+# instagramClone
+instagramClone
+<br>
+[PatikaDev Profil](https://app.patika.dev/mertdevart)
+
