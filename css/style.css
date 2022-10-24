@@ -1,13 +1,13 @@
 body {
   padding: 85px;
-  color: rgb(255, 255, 255);
+  background-color: #fafafa;
 }
 .nav-p {
-  background-color: #fafafa;
+  background-color: #fff;
   height: 54px;
 }
 .logo {
-  margin-left: 600px;
+  margin-left: 192px;
 }
 ::placeholder {
   text-align: center;
